@@ -1,6 +1,6 @@
 package Bundle::ClearCase;
 
-$VERSION = '1.00';
+$VERSION = '1.01';
 
 1;
 
@@ -17,13 +17,9 @@ Bundle::ClearCase - a Bundle of ClearCase modules/scripts on CPAN
 =head1 CONTENTS
 
 Argv			- Base class of ClearCase::Argv
-
 ClearCase::Argv		- Subclass of Argv
-
 ClearCase::ClearPrompt	- Extends the utility of clearprompt
-
 ClearCase::CRDB		- Analysis of config records, impact analysis
-
 ClearCase::SyncTree	- Provides clearfsimport-like I<synctree> script
 
 =head1 DESCRIPTION
